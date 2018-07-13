@@ -1,5 +1,5 @@
 {
-  "name": "date-repro",
+  "name": "typeorm-repro",
   "scripts": {
     "start": "tsc && node dist/main.js"
   },
