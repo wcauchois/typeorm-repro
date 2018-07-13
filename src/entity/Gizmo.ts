@@ -1,3 +1,4 @@
+import 'reflect-metadata';
 import { Entity, BaseEntity, PrimaryGeneratedColumn, OneToOne } from 'typeorm';
 import Gadget from './Gadget';
 

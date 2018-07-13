@@ -1,3 +1,4 @@
+import 'reflect-metadata';
 import { Entity, BaseEntity, PrimaryGeneratedColumn, OneToOne, JoinColumn } from 'typeorm';
 import Gizmo from './Gizmo';
 
