@@ -1,15 +1,15 @@
 {
   "name": "date-repro",
   "scripts": {
-    "start": "tsc && node dist/app.js"
+    "start": "tsc && node dist/main.js"
   },
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
     "luxon": "^1.3.0",
+    "pg": "^7.4.3",
     "reflect-metadata": "^0.1.12",
-    "sqlite3": "^4.0.0",
     "typeorm": "^0.2.7"
   }
 }
